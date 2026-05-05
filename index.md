@@ -65,7 +65,7 @@ If you have questions about this policy, contact:
 
 - Developer name: Candas Feighert
 - Support email: candaslfeighert@gmail.com
-- Website: https://github.com/darrellcandas
+- Website: https://darrellcandas.github.io/rnprep-privacy-policy/
 
 
 
